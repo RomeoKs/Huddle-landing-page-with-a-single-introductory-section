@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.0916142in" height="0.0916142in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 53 53"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ aria-hidden="true"
+ focusable="false"
+ data-prefix="fab"
+ data-icon="instagram"
+ role="img">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:1.9279}
+    .fil1 {fill:none}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2861673921984">
+   <path class="fil0" d="M27 20c-4,0 -7,3 -7,7 0,3 3,6 7,6 3,0 6,-3 6,-6 0,-4 -3,-7 -6,-7zm0 11c-3,0 -5,-2 -5,-4 0,-3 2,-5 5,-5 2,0 4,2 4,5 0,2 -2,4 -4,4zm8 -11c0,0 -1,1 -2,1 0,0 -1,-1 -1,-1 0,-1 1,-2 1,-2 1,0 2,1 2,2zm4 1c0,-2 0,-4 -2,-5 -1,-2 -3,-2 -5,-2 -2,0 -9,0 -11,0 -2,0 -4,0 -5,2 -2,1 -2,3 -2,5 0,2 0,9 0,11 0,2 0,4 2,5 1,2 3,2 5,2 2,0 9,0 11,0 2,0 4,0 5,-2 2,-1 2,-3 2,-5 0,-2 0,-9 0,-11zm-2 13c-1,1 -2,2 -3,3 -2,0 -6,0 -7,0 -2,0 -6,0 -8,0 -1,-1 -2,-2 -3,-3 0,-2 0,-6 0,-7 0,-2 0,-6 0,-8 1,-1 2,-2 3,-3 2,0 6,0 8,0 1,0 5,0 7,0 1,1 2,2 3,3 0,2 0,6 0,8 0,1 0,5 0,7z"/>
+  </g>
+  <path class="fil1 str0" d="M27 1c14,0 25,11 25,26 0,14 -11,25 -25,25 -15,0 -26,-11 -26,-25 0,-15 11,-26 26,-26z"/>
+ </g>
+</svg>
