@@ -6,7 +6,7 @@
   }
 body {
     background-color: hsl(257, 40%, 49%);
-    background-image: url(..//huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg);
+    background-image: url(../bg-desktop.svg);
     background-size: auto;
     background-repeat: no-repeat;
     margin: 0px;
